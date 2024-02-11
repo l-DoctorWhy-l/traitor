@@ -1,4 +1,4 @@
-# Traitor b1c3
+# Traitor b1c4
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
